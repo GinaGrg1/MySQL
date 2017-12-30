@@ -1,4 +1,4 @@
-# MySQL
+# Load into Elasticsearch using Logstash.
 
 To start the MySQL server
 ```
