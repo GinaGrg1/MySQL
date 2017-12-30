@@ -11,7 +11,7 @@ mydb = dbConnect(MySQL(),
                  host = "127.0.0.1",
                  port = 3306,
                  user = "root",
-                 password = "fantakim1234")
+                 password = "******")
 
 
 dbWriteTable(mydb,'storms', 
